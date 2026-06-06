@@ -39,10 +39,8 @@ Tracks stock levels, monitors supply chains, and uses historical usage data to *
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ravi64r&hide_border=true)](https://github.com/ravi64r)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ravi64r&hide_border=true)](https://github.com/ravi64r)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi64r&layout=compact&hide_border=true)](https://github.com/ravi64r)
-
----
 
 > *"Without data, you're just another person with an opinion." — W. Edwards Deming*

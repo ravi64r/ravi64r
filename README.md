@@ -1,45 +1,47 @@
-# Hi there, I'm Ravi 👋
+# Hi, I'm Ravi 👋
 
-🎓 3rd year Computer Science student | Passionate about building real-world solutions  
-🔍 Actively looking for **internships & job opportunities**  
-🌱 Currently improving my skills in **Java, Python & DSA**  
-💡 I enjoy solving problems and turning ideas into working projects  
-📍 Based in Ahmedabad, India  
+🎓 2nd year B.Tech Informaton Technology student | Ahmedabad, India
+🤖 Passionate about **Data Science, ML & Computer Vision**
+📊 Interests: Data Visualization, Predictive Analytics, Applied ML
+🔧 Currently building: **Inventory Intelligence System**
+📚 Learning: DSA, Machine Learning fundamentals, SQL
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**ML / Data Science**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi64r&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi64r&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔧 [Project Name](https://github.com/ravi64r) | Short description of what it does | Python |
-| 🌐 [Project Name](https://github.com/ravi64r) | Short description of what it does | Java |
+### 📦 [Inventory Intelligence System](https://github.com/ravi64r/hackathon) 🔧 *In Progress*
+> A web-based inventory management platform with smart supply forecasting.
 
-> ⭐ Replace the above with your actual projects!
+Tracks stock levels, monitors supply chains, and uses historical usage data to **predict future inventory needs** — reducing waste and preventing stockouts.
 
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+`Tech: Python · TypeScript · scikit-learn`
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+## 📈 GitHub Stats
+
+[![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi64r&show_icons=true&theme=default&hide_border=true)](https://github.com/ravi64r)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi64r&layout=compact&theme=default&hide_border=true)](https://github.com/ravi64r)
+
+---
+
+> *"Without data, you're just another person with an opinion." — W. Edwards Deming*

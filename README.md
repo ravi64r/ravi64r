@@ -39,8 +39,9 @@ Tracks stock levels, monitors supply chains, and uses historical usage data to *
 
 ## 📈 GitHub Stats
 
-[![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi64r&show_icons=true&theme=default&hide_border=true)](https://github.com/ravi64r)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi64r&layout=compact&theme=default&hide_border=true)](https://github.com/ravi64r)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ravi64r&hide_border=true)](https://github.com/ravi64r)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi64r&layout=compact&hide_border=true)](https://github.com/ravi64r)
 
 ---
 
